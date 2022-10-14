@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import { Design } from "../components/Design";
 import { Gallery } from "../components/Gallery";
 import { GreenAndHealthy } from "../components/GreenAndHealthy";
 import { Hero } from "../components/Hero";
@@ -12,6 +13,7 @@ export default function Home() {
       <Hero />
       <GreenAndHealthy />
       <Gallery />
+      <Design />
     </div>
   );
 }
