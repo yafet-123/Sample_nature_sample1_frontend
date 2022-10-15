@@ -20,6 +20,27 @@
   background-size: cover;
 }
 
+.GreenAndHealthy-three-background {
+  background-image: url("../public/images/bgImage12.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.GreenAndHealthy-five-background {
+  background-image: url("../public/images/bgImage10.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.GreenAndHealthy-four-background {
+  background-image: url("../public/images/bgImage13.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .GreenAndHealthy-two-background {
   background-image: url("../public/images/bgImage3.avif");
   background-position: center;

@@ -9,7 +9,7 @@ export function GreenAndHealthy() {
           to start editing the text.
         </h1>
       </div>
-      <div className="GreenAndHealthy-two-background w-full h-full relative">
+      <div className="GreenAndHealthy-two-background w-full h-screen relative">
         <h1 className="text-slate-600 text-5xl font-normal capitalize text-center mb-5 tracking-wide w-full absolute bottom-0">
           Green and <span className="text-black">Heathy</span>
         </h1>
