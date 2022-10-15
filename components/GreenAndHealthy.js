@@ -10,12 +10,12 @@ export function GreenAndHealthy() {
         </h1>
       </div>
       <div className="GreenAndHealthy-two-background w-full h-screen relative">
-        <h1 className="text-slate-600 text-5xl font-normal capitalize text-center mb-5 tracking-wide w-full absolute bottom-0">
+        <h1 className="text-slate-600 text-5xl font-normal capitalize text-center mb-10 tracking-wide w-full absolute bottom-16">
           Green and <span className="text-black">Heathy</span>
         </h1>
-        <p className="p-5 capitalize text-lg bg-slate-200 border rounded-lg text-center">
+        <button className="p-5 capitalize text-lg bg-slate-200 border rounded-lg text-center absolute bottom-3 left-1/4 w-1/2">
           read more
-        </p>
+        </button>
       </div>
     </div>
   );
