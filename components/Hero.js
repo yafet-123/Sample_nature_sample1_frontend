@@ -4,7 +4,7 @@ export function Hero() {
   return (
     <div className="w-full h-full">
       <div className="hero-background w-full h-[40rem] relative">
-        <div className="bg-transparent w-[35rem] h-96 p-10 absolute top-0 right-0 bottom-0 left-0 m-auto border-2 border-white flex flex-col justify-center">
+        <div className="bg-transparent w-full lg:w-[35rem] h-96 p-10 absolute top-0 right-0 bottom-0 left-0 m-auto border-2 border-white flex flex-col justify-center">
           <h1 className="text-slate-300 text-lg text-center font-medium uppercase mb-5 tracking-wide ">
             green is the prime color of the world
           </h1>

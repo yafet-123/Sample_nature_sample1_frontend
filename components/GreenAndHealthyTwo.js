@@ -9,7 +9,7 @@ export function GreenAndHealthyTwo() {
       <input
         type="text"
         placeholder="Enter your valid email address"
-        className="p-5 border border-white bg-transparent placeholder:text-white placeholder:capitalize"
+        className="p-5 border border-white bg-transparent placeholder:text-white placeholder:capitalize mb-5"
       />
       <button className="ml-5 py-5 px-10 bg-white border rounded-lg uppercase">
         submit
